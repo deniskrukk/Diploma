@@ -72,7 +72,7 @@ resource "aws_instance" "EC2-instance" {
 
     ebs_block_device {
       device_name = "/dev/sda1"
-      volume_size = 10
+      volume_size = 18
       tags = {
         "name" = "root disk"
       }
