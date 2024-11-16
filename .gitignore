@@ -3,3 +3,4 @@
 /Diploma/Terraform/terraform.exe
 /Diploma/Terraform/.terraform.lock.hcl
 /Diploma/Terraform/variables.tf
+/Diploma/Terraform/terraform.tfstate.backup
